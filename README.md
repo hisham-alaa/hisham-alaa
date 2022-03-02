@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hisham-alaa
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
