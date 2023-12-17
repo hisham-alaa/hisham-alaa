@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Junior Backend web developer using .Net 
 - 👨‍💻 As a CS graduate from Ain-Shams University, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, C# and ASP.Net Core, or anything related to web development.
+- 💬 Ask me about <strong>C#, Sql Server and Asp.net Core</strong> 
 
 
 
