@@ -54,3 +54,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisham-alaa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
+<a href="https://komarev.com/ghpvc/?hisham-alaa&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=hisham-alaa&style=for-the-badge">
+</a>
