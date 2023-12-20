@@ -1,6 +1,6 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h3 align="center">
+<h3 align="center" style="min-width:200px;">
   Welcome Visitor!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20.Net%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
 - 🏢 I'm a Junior Backend web developer using .Net 
 - 🎓 A CS graduate from Ain-Shams University
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills
